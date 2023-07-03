@@ -8,12 +8,16 @@ mudado aqui
 projeto quase concluido
 projeto concluido
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 
 
 analise do QA
 
 analise do PO
 
+=======
+analise do QA
+>>>>>>> Stashed changes
 =======
 analise do QA
 >>>>>>> Stashed changes
